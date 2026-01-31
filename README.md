@@ -1,6 +1,6 @@
 # Assignment 01 – Conference Travel Decision Analysis
 
-Student: Mateo Peter Zeppieri  
+Mateo Zeppieri  
 
 This repository contains my completed notebook for Assignment 01, which applies decision framing and optimization techniques to select conference travel options.
 
